@@ -1,0 +1,1 @@
+export const JPA_API_URL = "http://192.168.88.122:9004/Teller/v1";
